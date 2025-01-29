@@ -19,7 +19,7 @@ Welcome! Found in this repository is a compilation of sources, website links, tu
 <details>
 <summary>List of Useful Notes</summary>
 <ul>
-    <li><a href="">Argparse and Make</a> - This notebook goes over the basics of of Argparse and Make used in python.</li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/argparse_makefile_notes.ipynb">Argparse and Make</a> - This notebook goes over the basics of of Argparse and Make used in python.</li>
 </ul>
 </details>
 
@@ -27,8 +27,8 @@ Welcome! Found in this repository is a compilation of sources, website links, tu
 <details>
   <summary>List of Cheat Sheets</summary>
   <ul>
-    <li><a href="">Conda</a> - from the official conda documentation.</li>
-    <li><a href="">Conda 2</a> - an alternative cheat sheet that I liked.</li>
-    <li><a href="">Git</a> - Git command cheat sheet made by GitHub </li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet.pdf">Conda</a> - from the official conda documentation.</li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet2.pdf">Conda 2</a> - an alternative cheat sheet that I liked.</li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/git%20cheat%20sheet.pdf">Git</a> - Git command cheat sheet made by GitHub </li>
   </ul>
 </details>
