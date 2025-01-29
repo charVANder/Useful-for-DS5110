@@ -34,6 +34,6 @@ This is just a list of links that I found personally helpful when I was taking t
     <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet.pdf">Conda</a> - from the official conda documentation.</li>
     <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet2.pdf">Conda 2</a> - an alternative cheat sheet that I liked.</li>
     <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/git%20cheat%20sheet.pdf">Git</a> - Git command cheat sheet made by GitHub.</li>
-    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/git%20cheat%20sheet.pdf">Git</a> - Command line cheat sheet.</li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/command_line_cheatsheet.pdf">Git</a> - Command line cheat sheet.</li>
   </ul>
 </details>
