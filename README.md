@@ -17,6 +17,7 @@ This is just a list of links that I found personally helpful when I was taking t
 | [GitHub Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE) | Great for people who want to use this instead of the command line |
 | [Makefile Tutorial](https://www.youtube.com/watch?v=Yt-UF7fNLJE) | Makefiles in Python for professional automation |
 | [PDF, CDF, PPF Distribution](https://www.youtube.com/watch?v=3VYupIsbLlY) | Really great explanation that helps one intuitively understand Normal distribution |
+| [SQL Exercises](https://sqlbolt.com) | Aside from the W3 schools tutorial, this is another great site to run practice SQL exercises |
 | tbd | tbd |
 
 ## Useful Notes
