@@ -26,7 +26,7 @@ This is just a list of links that I found personally helpful when I was taking t
     <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/argparse_makefile_notes.ipynb">Argparse and Make</a> - This notebook goes over the basics of of Argparse and Make used in python.</li>
 </ul>
 <ul>
-    <li><a href="">Matplotlib</a> - This notebook goes over the basics of visualization with Matplotlib and a little Seaborn.</li>
+    <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/matplotlib_notes.ipynb">Matplotlib</a> - This notebook goes over the basics of visualization with Matplotlib and a little Seaborn.</li>
 </ul>
 </details>
 
