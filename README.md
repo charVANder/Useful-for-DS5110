@@ -32,7 +32,7 @@ This is a list of personal notes that I either created specifically for this cla
 | [Matplotlib](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/matplotlib_notes.ipynb) | This notebook goes over the basics of visualization with Matplotlib and a little Seaborn. |
 
 ## Cheat Sheets
-List of online cheat sheets that I found personally useful! I'm always open to extra recommendations!
+List of online cheat sheets that I found personally useful--I'm always open to extra recommendations! All of these can be found in the `Cheat Sheets` directory.
 
 | Topic/Title | Comments |
 | ---          | ---  |
