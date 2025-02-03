@@ -36,7 +36,7 @@ List of online cheat sheets that I found personally useful! I'm always open to e
 
 | Topic/Title | Comments |
 | ---          | ---  |
+| [Command Line](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/command_line_cheatsheet.pdf) | Command line cheat sheet. |
 | [Conda](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet.pdf) | From the official conda documentation. |
 | [Conda 2](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet2.pdf) | An alternative cheat sheet that I liked. |
 | [Git Source Control](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/git%20cheat%20sheet.pdf) | Git command cheat sheet made by GitHub. |
-| [Command Line](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/command_line_cheatsheet.pdf) | Command line cheat sheet. |
