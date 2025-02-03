@@ -29,6 +29,12 @@ This is just a list of links that I found personally helpful when I was taking t
 <ul>
     <li><a href="https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/matplotlib_notes.ipynb">Matplotlib</a> - This notebook goes over the basics of visualization with Matplotlib and a little Seaborn.</li>
 </ul>
+<ul>
+    <li><a href="">Histogram Examples w/ Stats</a> - Old class notes I took when I was taking the course. This goes over T-tests, U-tests, normality tests, histograms/boxplots, and etc.</li>
+</ul>
+<ul>
+    <li><a href="">Iris dataset stats</a> - Old class notes I took when I was taking the course. This goes over using pandas/numpy/python libraries to run calculation on the Iris data set (mean, median, std. dev, etc).</li>
+</ul>
 </details>
 
 ## Cheat Sheets
