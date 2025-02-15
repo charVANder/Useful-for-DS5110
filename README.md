@@ -30,6 +30,7 @@ This is a list of personal notes that I either created specifically for this cla
 | [Histogram Examples w/ Stats](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/histogram_examples_with_stats.ipynb) | Old class notes I took when I was taking the course. This goes over T-tests, U-tests, normality tests, histograms/boxplots, and etc. |
 | [Iris dataset stats](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/iris_dataset_stats.ipynb) | This goes over using pandas/numpy/python libraries to run calculation on the Iris data set (mean, median, std. dev, etc) |
 | [Matplotlib](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/matplotlib_notes.ipynb) | This notebook goes over the basics of visualization with Matplotlib and a little Seaborn. |
+| [Python sqlite3]() | This notebook goes over an example of creating a database using Python's sqlite3. |
 
 ## Cheat Sheets
 List of online cheat sheets that I found personally useful--I'm always open to extra recommendations! All of these can be found in the `Cheat Sheets` directory.
