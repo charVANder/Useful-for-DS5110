@@ -41,6 +41,6 @@ List of online cheat sheets that I found personally useful--I'm always open to e
 | [Conda](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet.pdf) | From the official conda documentation. |
 | [Conda 2](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet2.pdf) | An alternative cheat sheet that I liked. |
 | [Git Source Control](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/git%20cheat%20sheet.pdf) | Git command cheat sheet made by GitHub. |
-| [SQL Basics]() | Simple SQL commands using an example table. |
-| [SQL Commands]() | Geeks for Geeks SQL cheat sheet separated by categories such as querying, filtering, operators, joins, etc. |
-| [SQL Commands 2]() | Another thorough SQL cheat sheet from sqltutorial.com. |
+| [SQL Basics](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/SQL_basics%20_cheatsheet.pdf) | Simple SQL commands using an example table. |
+| [SQL Commands](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/SQL_cheatsheet.pdf) | Geeks for Geeks SQL cheat sheet separated by categories such as querying, filtering, operators, joins, etc. |
+| [SQL Commands 2](https://github.com/charVANder/Useful-for-DS5110/blob/main/Cheat%20Sheets/conda_cheatsheet2.pdf) | Another thorough SQL cheat sheet from sqltutorial.com. |
