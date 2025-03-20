@@ -27,8 +27,10 @@ This is a list of personal notes that I either created specifically for this cla
 | Topic/Title | Comments |
 | ---          | ---  |
 | [Argparse and Make](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/argparse_makefile_notes.ipynb) | This notebook goes over the basics of of Argparse and Make used in python. |
+| [Clustering and Dimension Reduction Notes]() | This is a presentation I made for another class that goes in depth over common clustering, evaluation, and dimension reduction techniques. |
 | [Histogram Examples w/ Stats](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/histogram_examples_with_stats.ipynb) | Old class notes I took when I was taking the course. This goes over T-tests, U-tests, normality tests, histograms/boxplots, and etc. |
-| [Iris dataset stats](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/iris_dataset_stats.ipynb) | This goes over using pandas/numpy/python libraries to run calculation on the Iris data set (mean, median, std. dev, etc) |
+| [Iris Dataset Stats](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/iris_dataset_stats.ipynb) | This goes over using pandas/numpy/python libraries to run calculation on the Iris data set (mean, median, std. dev, etc) |
+| [K-Means Clustering Basics]() | This notebook goes over simple examples of running K-Means on the Iris Dataset using Sklearn, plotting 3d plots, and evaluating clusters. |
 | [Matplotlib](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/matplotlib_notes.ipynb) | This notebook goes over the basics of visualization with Matplotlib and a little Seaborn. |
 | [Python sqlite3](https://github.com/charVANder/Useful-for-DS5110/blob/main/Useful%20Notes/practice_sqlite3.ipynb) | This notebook goes over an example of creating a database using Python's sqlite3. |
 
